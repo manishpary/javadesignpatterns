@@ -1,3 +1,5 @@
+package SingleTonPattern;
+
 import java.lang.reflect.Constructor;
 
 public class SingleTonPattern {}
