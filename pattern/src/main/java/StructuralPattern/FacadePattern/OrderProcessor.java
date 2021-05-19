@@ -1,4 +1,4 @@
-package StructuralPattern;
+package StructuralPattern.FacadePattern;
 
 public class OrderProcessor {
   public boolean checkStock(String name) {

@@ -1,4 +1,4 @@
-package StructuralPattern;
+package StructuralPattern.FacadePattern;
 
 public class Test {
   public static void main(String[] args) {
