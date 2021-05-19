@@ -1,4 +1,4 @@
-package ProtoTypePattern;
+package CreationalPattern.ProtoTypePattern;
 
 public class Game implements Cloneable {
   private int id;

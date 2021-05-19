@@ -1,4 +1,4 @@
-package FactoryPattern;
+package CreationalPattern.FactoryPattern;
 
 public class PC extends Computer {
 

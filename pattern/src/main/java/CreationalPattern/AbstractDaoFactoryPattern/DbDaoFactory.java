@@ -1,4 +1,4 @@
-package AbstractDaoFactoryPattern;
+package CreationalPattern.AbstractDaoFactoryPattern;
 
 public class DbDaoFactory extends DaoAbstractFactory {
   @Override

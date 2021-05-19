@@ -1,4 +1,4 @@
-package AbstractDaoFactoryPattern;
+package CreationalPattern.AbstractDaoFactoryPattern;
 
 public class DaoFactoryProducer {
   public static DaoAbstractFactory produce(String factoryType) {

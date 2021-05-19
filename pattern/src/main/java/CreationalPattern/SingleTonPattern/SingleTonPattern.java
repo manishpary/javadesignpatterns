@@ -1,4 +1,4 @@
-package SingleTonPattern;
+package CreationalPattern.SingleTonPattern;
 
 import java.lang.reflect.Constructor;
 

@@ -1,4 +1,4 @@
-package FactoryPattern;
+package CreationalPattern.FactoryPattern;
 
 import java.util.Calendar;
 
